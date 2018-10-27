@@ -6,3 +6,5 @@ class Application
 
     resp.write "Good Morning!"
     resp.write "Good Aternoon!"
+  end 
+end 
